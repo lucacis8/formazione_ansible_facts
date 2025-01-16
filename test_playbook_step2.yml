@@ -1,11 +1,14 @@
----
 - name: Test custom Ansible module - Step 2
   hosts: localhost
   gather_facts: no
-  connection: local  # Aggiungi questa riga per eseguire il playbook localmente
+  connection: local
 
   tasks:
     - name: Gather enriched user and group facts (Step 2)
       user_group_facts_step2:
         gather_users: true
         gather_groups: true
+
+    - name: Debug enriched user and group facts (Step 2)
+      debug:
+        var: ansible_facts['users']
