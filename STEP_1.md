@@ -1,4 +1,4 @@
-# Formazione Ansible Facts
+# Step 1
 
 ## Descrizione
 Questo progetto ha lo scopo di introdurre l'uso dei **moduli personalizzati di Ansible** per raccogliere e popolare gli **Ansible Facts** con informazioni sugli utenti e sui gruppi di sistema.
