@@ -1,4 +1,4 @@
-# Step 2: Arricchimento dei Facts degli Utenti e dei Gruppi
+# Step 2
 
 ## Descrizione
 Lo **Step 2** ha l'obiettivo di arricchire i dati raccolti nel **Step 1**, risolvendo e aggiungendo informazioni aggiuntive sui gruppi a cui gli utenti appartengono. In particolare, il modulo:
