@@ -3,7 +3,7 @@
   connection: local  # Esegui i task localmente
   gather_facts: false  # Disabilita la raccolta automatica dei facts
   tasks:
-    - name: Gather user and group facts
+    - name: Gather user and group facts (Step 1)
       user_group_facts:
         include_users: true
         include_groups: true
