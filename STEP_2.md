@@ -1,7 +1,7 @@
 # Step 2
 
 ## Descrizione
-Lo **Step 2** ha l'obiettivo di arricchire i dati raccolti nel **Step 1**, risolvendo e aggiungendo informazioni aggiuntive sui gruppi a cui gli utenti appartengono. In particolare, il modulo:
+Lo **Step 2** ha l'obiettivo di arricchire i dati raccolti nello **Step 1**, risolvendo e aggiungendo informazioni aggiuntive sui gruppi a cui gli utenti appartengono. In particolare, il modulo:
 - Associa a ciascun utente il **nome del gruppo principale** (identificato dal GID dell'utente).
 - Aggiunge una lista di **gruppi aggiuntivi** a cui l'utente appartiene, estratti dal file `/etc/group`.
   
