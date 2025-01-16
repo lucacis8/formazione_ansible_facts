@@ -17,8 +17,8 @@ Lo **Step 1** prevede la creazione di un modulo che:
 ```bash
 formazione_ansible_facts/ 
 ├── library/ 
-│ └── user_group_facts.py # Modulo Ansible personalizzato 
-├── test_playbook.yml # Playbook per testare il modulo 
+│ └── user_group_facts_step1.py # Modulo Ansible personalizzato 
+├── test_playbook_step1.yml # Playbook per testare il modulo 
 └── STEP_1.md # Documentazione del progetto
 ```
 
@@ -43,7 +43,7 @@ cd formazione_ansible_facts
 
 2. Eseguire il playbook:
 ```bash
-ansible-playbook -i localhost, test_playbook.yml
+ansible-playbook -i localhost, test_playbook_step1.yml
 ```
 
 3. Output atteso:
