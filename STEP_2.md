@@ -35,9 +35,11 @@ formazione_ansible_facts/
 
 ### Installazione di Ansible
 Se Ansible non è installato, eseguire il seguente comando:
-
+```bash
 pip install ansible
-Guida all'Esecuzione
+```
+
+## Guida all'Esecuzione
 
 1. Clonare la repository (se necessario) ed entrare nella directory:
 ```bash
