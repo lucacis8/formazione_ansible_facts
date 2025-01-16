@@ -8,6 +8,6 @@
         include_users: true
         include_groups: true
 
-    - name: Debug output
+    - name: Debug output (Step 1)
       debug:
         var: ansible_facts
