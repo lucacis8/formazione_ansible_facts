@@ -1,4 +1,4 @@
-- name: Test custom Ansible module
+- name: Test custom Ansible module - Step 1
   hosts: localhost
   connection: local  # Esegui i task localmente
   gather_facts: false  # Disabilita la raccolta automatica dei facts
