@@ -18,8 +18,8 @@ Lo **Step 1** prevede la creazione di un modulo che:
 formazione_ansible_facts/ 
 ├── library/ 
 │ └── user_group_facts_step1.py # Modulo Ansible personalizzato 
-├── test_playbook_step1.yml # Playbook per testare il modulo 
-└── STEP_1.md # Documentazione del progetto
+├── test_playbook_step1.yml     # Playbook per testare il modulo 
+└── STEP_1.md                   # Documentazione del progetto
 ```
 
 ## Requisiti
