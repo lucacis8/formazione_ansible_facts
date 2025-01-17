@@ -1,4 +1,4 @@
-# Step 3 - Raccolta avanzata di facts su utenti e gruppi
+# Step 3
 
 Questo step estende la raccolta di facts includendo informazioni avanzate sugli utenti di sistema, i gruppi e la data di scadenza degli account.
 
