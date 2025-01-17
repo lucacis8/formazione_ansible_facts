@@ -24,8 +24,8 @@ I facts che vengono popolati includono:
 formazione_ansible_facts/
 ├── library/
 │ └── user_group_facts_step2.py # Modulo personalizzato per arricchire i facts degli utenti e gruppi
-├── test_playbook_step2.yml # Playbook per testare il modulo
-└── STEP_2.md # Documentazione di Step 2
+├── test_playbook_step2.yml     # Playbook per testare il modulo
+└── STEP_2.md                   # Documentazione di Step 2
 ```
 
 ## Requisiti
