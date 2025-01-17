@@ -1,0 +1,14 @@
+---
+- name: Test custom Ansible module - Step 3
+  hosts: localhost
+  connection: local
+  gather_facts: no
+
+  tasks:
+    - name: Gather enriched user and group facts with expiry information (Step 3)
+      user_group_facts_step3:
+      register: user_facts
+
+    - name: Show gathered facts
+      debug:
+        var: user_facts
