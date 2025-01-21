@@ -1,6 +1,6 @@
 # Formazione Ansible Facts
 
-Questo repository fornisce esercizi pratici per l'utilizzo dei moduli personalizzati di Ansible e l'arricchimento degli Ansible Facts. Gli esercizi guidano nella creazione di moduli Python per raccogliere informazioni sui sistemi target, con un focus particolare su utenti, gruppi e scadenze degli account.
+Questa repository fornisce esercizi pratici per l'utilizzo dei moduli personalizzati di Ansible e l'arricchimento degli Ansible Facts. Gli esercizi guidano nella creazione di moduli Python per raccogliere informazioni sui sistemi target, con un focus particolare su utenti, gruppi e scadenze degli account.
 
 ## Contenuto
 
